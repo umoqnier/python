@@ -19,7 +19,3 @@ def fibo_3(max):
     while a < max:
         yield a
         a, b = b, a+b
-	
-fibo_1(10)
-
-print(fibo_2(10))
