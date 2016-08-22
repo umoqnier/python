@@ -23,6 +23,3 @@ def fibo_3(max):
 fibo_1(10)
 
 print(fibo_2(10))
-
-for n in fibo_3(10):
-    print(n)
